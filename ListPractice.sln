@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.0.32112.339
+VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShuntingYard", "ShuntingYard\ShuntingYard.vcxproj", "{6E004DAC-62DB-43E2-8715-8ABF71398DB1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lists", "ListPractice\ShuntingYard.vcxproj", "{6E004DAC-62DB-43E2-8715-8ABF71398DB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F02C3CA6-006B-46A1-AA9F-C796C409B36E}
+		SolutionGuid = {12BC3FCA-D514-4958-AC3C-49384456F56D}
 	EndGlobalSection
 EndGlobal
